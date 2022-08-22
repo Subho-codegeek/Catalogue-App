@@ -1,0 +1,52 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "iphone 13 pro",
+            "desc": "Iphone 12th generation",
+            "color": "#33505a",
+            "image": "https://www.tradeinn.com/f/13885/138855063/apple-iphone-13-pro-max-256gb-6.7-smartphone.jpg",
+            "price": 990
+        },
+        {
+            "id": 2,
+            "name": "Pixel 5",
+            "desc": "Google pixel 5",
+            "color": "#33505a",
+            "image": "https://specifications-pro.com/wp-content/uploads/2020/04/Google-Pixel-5-XL-1.jpg",
+            "price": 990
+        },
+        {
+            "id": 3,
+            "name": "Macbook Air",
+            "desc": "Apple M1 Macbook Air",
+            "color": "#33505a",
+            "image": "https://i.pcmag.com/imagery/reviews/02pPlSC851BxRP4BFdufSBJ-1..v1605566017.jpg",
+            "price": 990
+        },
+        {
+            "id": 4,
+            "name": "Ipad",
+            "desc": "Apple Ipad",
+            "color": "#33505a",
+            "image": "https://cdn-files.kimovil.com/default/0005/17/thumb_416447_default_big.jpeg",
+            "price": 990
+        },
+        {
+            "id": 5,
+            "name": "Galaxy s20",
+            "desc": "Samsung galaxy s20",
+            "color": "#33505a",
+            "image": "https://www.gizmochina.com/wp-content/uploads/2020/01/Samsung-Galaxy-S20-5G-1.jpg",
+            "price": 990
+        },
+        {
+            "id": 6,
+            "name": "imac",
+            "desc": "Apple Imac",
+            "color": "#33505a",
+            "image": "https://m.xcite.com/media/catalog/product/cache/1/image/1141x/9df78eab33525d08d6e5fb8d27136e95/i/m/imac_1141_919_1_1.jpg",
+            "price": 990
+        }
+    ]
+}
